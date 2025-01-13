@@ -1,0 +1,2 @@
+# Deep Q-Learning (DQN) for CartPole OpenAI Gym
+ This project implements Deep Q-Learning (DQN) to solve the CartPole-v1 environment, focusing on the exploration-exploitation trade-off using various exploration strategies (ε-greedy, annealing ε-greedy, and softmax). The project also explores the impact of hyperparameters such as learning rate, batch size, and discount factor on performance, providing insights into optimizing Deep Q-Learning for a standard reinforcement learning problem
